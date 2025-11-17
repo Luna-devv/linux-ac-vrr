@@ -4,6 +4,8 @@
 
 Change the refreshrate of your linux (gnome w/ wayland) laptop when (un)plugging the AC power connector.
 
+![example](https://media.wamellow.com/vrr.gif)
+
 > [!WARNING]
 > It's not my problem if your system breaks or this doesn't work
 
